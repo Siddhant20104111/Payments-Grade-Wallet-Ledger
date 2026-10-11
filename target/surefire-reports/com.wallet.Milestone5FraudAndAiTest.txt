@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.wallet.Milestone5FraudAndAiTest
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.094 s -- in com.wallet.Milestone5FraudAndAiTest
