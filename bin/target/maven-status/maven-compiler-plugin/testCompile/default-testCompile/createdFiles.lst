@@ -1,0 +1,3 @@
+com\wallet\Milestone1SchemaTest.class
+com\wallet\UnsafeTransferConcurrencyTest.class
+com\wallet\StampedeAcceptanceTest.class

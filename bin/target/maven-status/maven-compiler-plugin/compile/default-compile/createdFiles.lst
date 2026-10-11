@@ -1,0 +1,9 @@
+com\wallet\domain\InsufficientFundsException.class
+com\wallet\domain\TransferRequest.class
+com\wallet\service\UnsafeTransferService.class
+com\wallet\domain\TransferResult.class
+com\wallet\WalletApplication.class
+com\wallet\domain\AccountNotFoundException.class
+com\wallet\service\SafeTransferService.class
+com\wallet\service\SafeTransferService$AccountSnapshot.class
+com\wallet\domain\InvalidTransferException.class
