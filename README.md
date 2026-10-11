@@ -4,6 +4,19 @@ A production-grade fintech digital wallet backend built with **Spring Boot 3, Ja
 
 ---
 
+## 🎥 5-Minute Technical Demo Video
+
+▶️ **Watch the Demo Walkthrough**: **[Click here to view the 5-Minute Technical Demo Video (Google Drive)](https://drive.google.com/file/d/1byL3CkusW2y7iEZ-sd_m9KlaqQWcyIle/view?usp=drive_link)**
+
+*The video demonstrates:*
+1. **Transfer Execution**: End-to-end peer transfer with balance updates and balanced ledger entries.
+2. **Safe Retries**: Idempotency key replay returning cached response with zero duplicate movements.
+3. **Fraud Holds**: Transfer exceeding limits placed on `HELD` status with audit trail, followed by admin release.
+4. **Nightly Reconciliation**: Automated snapshot audit verifying zero-sum parity and stored balance consistency.
+5. **AI Statement Q&A**: Plain-English queries backed by database rows and prompt injection defense.
+
+---
+
 ## Architecture & System Design Decisions
 
 ### 1. Money Arithmetic & Representation
